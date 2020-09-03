@@ -1,18 +1,5 @@
 About
 React application to search for recipes online using API
-.
-.
-.
-.
-.
-.
-..
-...
-.
-...
-.
-.
-
 
 
 
